@@ -1,0 +1,19 @@
+# import statistics
+# dataset = [34,67,5,81,2,45,9,23,55,41,42,84,109,109,109]
+# print(statistics.mode(data))
+
+# dataset ([34,67,5,81,2,45,9,23,55,41,42,84,109,109,109])
+# print.mode(data) 
+
+# dataset = [34,67,5,81,2,45,9,23,55,41,42,84,109,109,109]
+# def find_mean(data):
+#     total = sum(data)
+#     print (total)
+
+# find_mean(dataset)
+
+
+
+
+
+
